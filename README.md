@@ -1,6 +1,6 @@
 # WebDev-Midterm-Project
 
-Members
+## Members:
 Barrientos, Nicole
 De Villa, Franz Ivan 
 Momo, Yasmin
